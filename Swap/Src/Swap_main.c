@@ -9,8 +9,8 @@ int verificare(int a)
 
     if(scanf("%d", &a) != 1 )
     {   
-        printf("\nNu ai introdus un numar!\nMai incearca!");
-            
+        printf("\nNu ai introdus un numar!");
+        printf("\nMai incearca!");    
         fflush(stdin);
             
         return verificare(a);   
