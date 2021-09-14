@@ -17,7 +17,7 @@ int verificare(int a)
     }
     else
     {   
-    	printf("\nNumarul introdus este: %d.",a);
+    	printf("\nNumarul introdus este: %d.\n",a);
             
     	return 0;	
     }
