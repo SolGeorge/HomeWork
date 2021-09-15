@@ -1,4 +1,8 @@
-# Swapping two integers
+# 🔄 Swapping two integers
 
-The unit Swap_main (.c and .h) contains main function were I swap two numbers.
-Swap_function contains the definition of a function that swap two integers and a function that swap two pointers to integers.
+The unit Swap_main.c contains main function were I swap two numbers.\
+Swap_function.c contains the definitions of the swap functions.\
+There are three types of swaps:\
+-swap_view - just to view<br/>
+-swap_pointer - using pointers  
+-swap_XOR - using XOR
